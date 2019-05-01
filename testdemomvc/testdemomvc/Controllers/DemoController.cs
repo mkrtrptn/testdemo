@@ -38,6 +38,14 @@ namespace testdemomvc.Controllers
         {
             return View();
         }
+        
+        public ActionResult method4()
+        {
+           return View();
+        }
+        
+        
+        
 
 
     //comment added on github
