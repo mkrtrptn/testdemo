@@ -24,6 +24,13 @@ namespace testdemomvc.Controllers
         {
             return View();
         }
+        
+        
+        
+         public ActionResult method2()
+        {
+            return View();
+        }
 
         public ActionResult method3()
         {
