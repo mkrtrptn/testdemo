@@ -23,6 +23,7 @@ namespace testdemomvc.Controllers
         public ActionResult method1()
         {
         //Conflict Comment
+        //conflict commit 2
             return View();
         }
         
